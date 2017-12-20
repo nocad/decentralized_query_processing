@@ -11,6 +11,9 @@
 
     https://docs.oracle.com/javase/tutorial/jdbc/basics/processingsqlstatements.html
 
+    Spring-frameworks
+    https://spring.io/guides/gs/client-side-load-balancing/
+
 # On-topic
 
     https://www.researchgate.net/publication/282415980_SShare_a_simulator_for_studying_and_evaluating_decentralized_SPARQL_query_processing
@@ -49,3 +52,6 @@
     - [ ] machine distribution
     - [ ] single query distribution
     - [ ] distribution of workload
+    - [ ] crticise and write abstracts
+    - [ ] read and write
+    - [ ] google load balancing
