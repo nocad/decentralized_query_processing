@@ -47,4 +47,5 @@
     - [ ] java threads (decentrelised frameworks) research --in Progress
     - [ ] decentrelize Querys (whats the difference to pararrelization)
     - [ ] machine distribution
-    - [ ] single query distributionx
+    - [ ] single query distribution
+    - [ ] distribution of workload
